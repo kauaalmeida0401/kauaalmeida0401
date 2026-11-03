@@ -2,7 +2,7 @@
   <img src="banner.jpeg" width="100%">
 </p>
 
-# 👋 Olá! Eu sou o Kauã Ferreira
+#  Olá! Eu sou o Kauã Ferreira
 
 💻 **Estudante de Técnico em Informática | Desenvolvedor em formação**
 
@@ -19,7 +19,7 @@ Sou estudante de Técnico em Informática, interessado em programação, desenvo
 - **Nível:** Em evolução constante
 - **Objetivo:** Transformar conhecimento em soluções tecnológicas.
 
-## 🧠 HABILIDADES ADQUIRIDAS
+##  HABILIDADES ADQUIRIDAS
 
 | Tecnologia | Conhecimento |
 |---|---|
@@ -28,7 +28,7 @@ Sou estudante de Técnico em Informática, interessado em programação, desenvo
 | Sistemas de Redes | Fundamentos de redes |
 | Manutenção e Instalação | Hardware e software |
 
-## ⚔️ HABILIDADES EM TREINAMENTO
+##  HABILIDADES EM TREINAMENTO
 
 - C# e Programação Orientada a Objetos
 - Banco de Dados e SQL
