@@ -46,12 +46,6 @@ Sou estudante de Técnico em Informática, interessado em programação, desenvo
 
 ---
 
-## 📂 MEUS PROJETOS
-
-Confira meus repositórios para acompanhar minha evolução e meus projetos acadêmicos.
-
----
-
 <p align="center">
   🚀 <strong>Em constante aprendizado. Evoluindo a cada projeto!</strong>
 </p>
