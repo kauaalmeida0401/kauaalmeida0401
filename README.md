@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Kauã Ferreira - Desenvolvedor">
+  <img src="banner.jpeg" width="100%">
 </p>
 
 # 👋 Olá! Eu sou o Kauã Ferreira
